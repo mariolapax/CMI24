@@ -13,6 +13,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Web:**   https://mariolapax.github.io
 
+
+  https://mariolapax.github.io/apnea/apneampax.html
+
 **Autor:**  Mariola Pax Pons
 
 **Resumen** : Quizz teórico  de quince preguntas a cerca de los conocimientos necesarios para la práctica del deporte freediving o apnea dinámica, sin tiempo límite para su realización y con todos los intentos que se necesiten, así como las respuestas correctas para ser revisadas.
