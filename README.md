@@ -46,17 +46,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-Al abrir el proyecto "Apnea" creado con Hippani, vemos la pantalla en negro cuando un buceador desciende lentamente y al colocarse en el centro de la pantalla aparece el fondo del mar a su alrededor y al mismo tiempo se viasualiza ahora el menú del quizz, donde se le dan varias opciones, acceder a: el test, la galería, o los créditos. En la galería se encuentran varias imágenes del deporte en cuestión con flechas para ver la siguiente o la anterior, así como un vídeo de youtube de National Geographic; en los créditos aparece el nombre de la creadora así como la Universidad y Facultad en las que ha trabajado en el proyecto; y finalmente el más importante, el test, donde aparecen quince preguntas con tres posibles respuestas cada una, al terminarlom, aparecen el número de fallos y aciertos y se le da la opción de volver a intentarlo o revisar las respuestas, una escena donde aparecen las preguntas y una explicación para argumentar 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+Al abrir el proyecto "Apnea" creado con Hippani, vemos la pantalla en negro cuando un buceador desciende lentamente y al colocarse en el centro de la pantalla aparece el fondo del mar a su alrededor y al mismo tiempo se viasualiza ahora el menú del quizz, donde se le dan varias opciones, acceder a: el test, la galería, o los créditos. En la galería se encuentran varias imágenes del deporte en cuestión con flechas para ver la siguiente o la anterior, así como un vídeo de youtube de National Geographic; en los créditos aparece el nombre de la creadora así como la Universidad y Facultad en las que ha trabajado en el proyecto; y finalmente el más importante, el test, donde aparecen quince preguntas con tres posibles respuestas cada una, al terminarlom, aparecen el número de fallos y aciertos y se le da la opción de volver a intentarlo o revisar las respuestas, una escena donde aparecen las preguntas y una explicación para cada una de las respuestas. 
 
 
 ### 2.2. Esquema de navegación 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
