@@ -9,15 +9,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Apnea
 
-**Web:**   https://    (url github.io)
+**Web:**   https://mariolapax.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Mariola Pax Pons
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Quizz teórico  de quince preguntas a cerca de los conocimientos necesarios para la práctica del deporte freediving o apnea dinámica, sin tiempo límite para su realización y con todos los intentos que se necesiten, así como las respuestas correctas para ser revisadas.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Quizz
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -25,28 +25,25 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Microsoft Edge
 
-**Tamaño proyecto:** XXMB 
+**Tamaño proyecto:** 4,24MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha** : 23/05/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://mariolapax.github.io 
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
+Al abrir el proyecto "Apnea" creado con Hippani, vemos la pantalla en negro cuando un buceador desciende lentamente y al colocarse en el centro de la pantalla aparece el fondo del mar a su alrededor y al mismo tiempo se viasualiza ahora el menú del quizz, donde se le dan varias opciones, acceder a: el test, la galería, o los créditos. En la galería se encuentran varias imágenes del deporte en cuestión con flechas para ver la siguiente o la anterior, así como un vídeo de youtube de National Geographic; en los créditos aparece el nombre de la creadora así como la Universidad y Facultad en las que ha trabajado en el proyecto; y finalmente el más importante, el test, donde aparecen quince preguntas con tres posibles respuestas cada una, al terminarlom, aparecen el número de fallos y aciertos y se le da la opción de volver a intentarlo o revisar las respuestas, una escena donde aparecen las preguntas y una explicación para argumentar 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
