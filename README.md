@@ -75,15 +75,16 @@ https://www.youtube.com/watch?v=-MZetpFw7qY&t=9s this is why I freedive
 https://www.youtube.com/watch?v=L4qM1IEhtNQ Experience the Under Water World through the Eyes of a Freediver
 
 
+
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto está enfocado para dar a conocer la parte teórica que conlleva el practicar buceo libre para la correcta práctica del deporte. Así pues, se trata de un test en el que el que lo realiza pone a prueba sus conocimientos básicos dándole también la posibilidad de repasar aquellos en los que pueda tener dudas. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+Orientado a personas que tengan interés en prácticar buceo libre y posteriormente, examinarse para el título de Apneísta nivel 1. 
 
 
 
@@ -93,9 +94,9 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- Juego: la forma más viable para la práctica de la teoría del deporte en cuestión era el quizz o test, sin límite de tiempo porque se prioriza el aprendizaje y repaso de conceptos, y la posibilidad de estudiarlos con sus debidas explicaciones tras realizar el test y saber cuántos fallos y aciertos se han tenido. 
+- Video: tanto el vídeo (de youtube) como las imágenes del juego se encuentran en el apartado "galería" al cual se puede llegar desde el menú principal.
+- Instrucciones y ayuda al usuario: Al abrir Apnea podrá comenzar el test, abrir la galería o visualizar los créditos
 - Menús y elementos de navegación (botones)
 - etc.
 
