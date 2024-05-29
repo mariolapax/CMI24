@@ -71,9 +71,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+https://www.youtube.com/watch?v=-MZetpFw7qY&t=9s this is why I freedive
+https://www.youtube.com/watch?v=L4qM1IEhtNQ Experience the Under Water World through the Eyes of a Freediver
 
 
 **Motivación de la propuesta** 
