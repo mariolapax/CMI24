@@ -96,45 +96,38 @@ Orientado a personas que tengan interés en prácticar buceo libre y posteriorme
 
 - Juego: la forma más viable para la práctica de la teoría del deporte en cuestión era el quizz o test, sin límite de tiempo porque se prioriza el aprendizaje y repaso de conceptos, y la posibilidad de estudiarlos con sus debidas explicaciones tras realizar el test y saber cuántos fallos y aciertos se han tenido. 
 - Video: tanto el vídeo (de youtube) como las imágenes del juego se encuentran en el apartado "galería" al cual se puede llegar desde el menú principal.
-- Instrucciones y ayuda al usuario: Al abrir Apnea podrá comenzar el test, abrir la galería o visualizar los créditos
-- Menús y elementos de navegación (botones)
-- etc.
+- Instrucciones y ayuda al usuario: Al abrir Apnea podrá comenzar el test, abrir la galería o visualizar los créditos; tras la realización del test, aparecen en pantalla el número de aciertos y de fallos y se le da la posibilidad de volver al menú o ver las respuestas de todas las preguntas del test. 
+- Menús y elementos de navegación: los botones del juego permiten ir hacia atrás, adelante, volver al menú, visualizar la galería o los créditos, si bien es cierto que una vez comenzado el test sólo se puede ir hacia adelante y es al terminarlo que se da la opción de volver al menú o ver las respuestas. 
+
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
+Tanto la estética del juego como su funcionabilidad son mejorables, y aunque cumple con los requisitos mínimos es cierto que posiblemente se podría añadir algún botón en alguna escena como el de retroceso en el test o la posibilidad de ir al menú en cualquier momento o el poder ver las respuestas correctas solamente de las que se han fallado en lugar de tener que revisarlas todas. 
 
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+https://www.youtube.com/watch?v=-MZetpFw7qY&t=9s this is why I freedive
+https://www.youtube.com/watch?v=L4qM1IEhtNQ Experience the Under Water World through the Eyes of a Freediver
+https://freedivemenorca.com/es/inicio/ Freedive Menorca
+https://www.divingfornells.com/en/freedive-menorca/ Dune Fornells Freedive Menorca
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Brian Eno - Music for Airports https://www.youtube.com/watch?v=LKZ3fGR2SDY&t=1s
+* Imágenes:  sacadas de internet mediante la búsqueda freedive blanco y negro
+* Tipografía: Arial Black
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
-
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
