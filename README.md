@@ -52,7 +52,7 @@ Al abrir el proyecto "Apnea" creado con Hippani, vemos la pantalla en negro cuan
 ### 2.2. Esquema de navegación 
 
 
-<img src="img_5015.jpg" />
+<img src="IMG_5015.jpg" />
 
 
 
